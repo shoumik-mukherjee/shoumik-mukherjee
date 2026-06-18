@@ -17,7 +17,7 @@
 
 ## 🚀 Projects
 
-### 🪖 AI Soldier Health Monitoring System
+### 🪖 AI Based Soldier Health Monitoring System
 > ESP32 + MAX30102 + MPU6050 + GPS → Real-time Flask dashboard + ML Decision Tree  
 > Predicts soldier states: Normal / Fatigue / Injury / Critical
 
