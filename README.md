@@ -1,6 +1,6 @@
 # Hi, I'm Shoumik Mukherjee 👋
 
-🎓 Student @ RV College of Engineering pursuing my B.Tech in ECE, Bengaluru (2025–2029)  
+🎓 Student @ RV College of Engineering pursuing my B.E in ECE, Bengaluru (2025–2029)  
 🔧 Currently learning and working on IoT systems, web dashboards & automation tools  
 📍 Bengaluru, Karnataka
 
