@@ -1,7 +1,7 @@
 # Hi, I'm Shoumik Mukherjee 👋
 
 🎓 Student @ RV College of Engineering pursuing my B.E in ECE, Bengaluru (2025–2029)  
-🔧 Currently learning and working on IoT systems, web dashboards & automation tools  
+🔧 I am very interested to learn and work on VLSI design and embedded systems. I have built end-to-end projects spanning IoT hardware, Python, ML models, MATLAB simulations, and full-stack dashboards. Always looking to learn, build, and collaborate on meaningful tech.  
 📍 Bengaluru, Karnataka
 
 ---
